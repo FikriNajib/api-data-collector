@@ -2,7 +2,7 @@ package kafka
 
 import (
 	"data-collector-api/config"
-	"github.com/Shopify/sarama"
+	"github.com/IBM/sarama"
 	"github.com/ThreeDotsLabs/watermill"
 	"github.com/ThreeDotsLabs/watermill-kafka/v2/pkg/kafka"
 	"strings"
